@@ -1,6 +1,6 @@
 
 :wave: Hello! <br>
-I'm Luísa Mendes Heise, a brazillian industrial engineering student and member of [Grupo Turing][https://github.com/GrupoTuring]. <br>
+I'm Luísa Mendes Heise, a brazillian industrial engineering student and member of [Grupo Turing](https://github.com/GrupoTuring). <br>
 
 <img height="20" width="20" src="https://simpleicons.org/icons/python.svg" /> Python - is my main programming language
  - I like using it for:
