@@ -8,8 +8,8 @@ I'm Luísa Mendes Heise, a brazillian industrial engineering student and member 
 	 - Data Science 
 	 - Image Processing
 	 - Deep Learning
-		 - NLP
-		 - Computer Vision
+	 - NLP
+	 - Computer Vision
 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can touch my forearm with my thumb 
